@@ -48,7 +48,7 @@
                     <img src="history.jpg" class="img-fluid">
                     <br>
                     <a href="transactionhistory.php"><button>Transaction History</button></a>
-                     <a href="transactionhistory.php"><button>Transaction</button></a>
+                    
                   </div>
             </div>
       </div>
@@ -60,3 +60,4 @@
   </body>
 
 </html>
+
