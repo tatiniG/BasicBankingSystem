@@ -9,7 +9,7 @@ $db = "sparks_bank";
 $conn = mysqli_connect($server,$username,$password,$db);
 
 if($conn)
-//echo "Connection successful";
+echo "Connection successful";
 {
     ?>
     <script>
@@ -22,6 +22,7 @@ else
     echo "No connection";
     die("no connection".mysqli_connect_error());//exit
 }
+
 
 
 
