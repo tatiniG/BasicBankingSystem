@@ -29,6 +29,7 @@
               </div>
               <div class="col-sm-12 col-md img text-center">
                 <img src="bank.png" class="img-fluid pt-2">
+                 <img src="location.png" class="img-fluid pt-2">
               </div>
             </div>
 
@@ -60,4 +61,5 @@
   </body>
 
 </html>
+
 
